@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm CloudyEyes-qaq
 
-<!--
-**CloudyEyes-qaq/CloudyEyes-qaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Curtin University, Singapore.
+Preparing for NUS AI Master's program.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python
+- SQL
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Linear Algebra
+- Machine Learning (Andrew Ng)
+- Data Structures & Algorithms
+
+## Projects
+- [py4e-exercises](https://github.com/CloudyEyes-qaq/py4e-exercises) - Python for Everybody course exercises
+
+## Contact
+- Email: stu0257051@cgt.bitzh.edu.cn
+

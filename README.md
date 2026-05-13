@@ -14,7 +14,7 @@ Preparing for NUS AI Master's program.
 - Data Structures & Algorithms
 
 ## Projects
-- [py4e-exercises](https://github.com/CloudyEyes-qaq/py4e-exercises) - Python for Everybody course exercises
+- [py4e-exercises](https://github.com/CloudyEyes-qaq/py-exercises) - Python for Everybody course exercises
 
 ## Contact
 - Email: stu0257051@cgt.bitzh.edu.cn
